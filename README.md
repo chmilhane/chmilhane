@@ -2,7 +2,7 @@
 
 <!-- ### **🧙‍♂️ About Me** -->
 
-<img align="center" width="100%" src="static/Separator.svg">
+<!-- <img align="center" width="100%" src="static/Separator.svg"> -->
 
 ### **💻 Connect with Me**
 
