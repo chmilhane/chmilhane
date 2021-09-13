@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 800 132" width="800" height="132" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				h1 {
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					color: #3A96DD;
+					animation: rotate ease-in-out 1s infinite alternate;
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+				}
+
+				.shadow {
+					text-shadow:
+						0 1px 0 #0063B1,
+						0 2px 0 #0063B1,
+						0 3px 0 #0063B1,
+						0 4px 0 #0063B1,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+
+				.container {
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					text-align: center;
+				}
+			</style>
+			<div class="container">
+				<h1><span class="shadow">Milhane</span> 😎</h1>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
